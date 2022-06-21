@@ -5,7 +5,7 @@ cycler==0.10.0
 idna==2.6
 matplotlib==2.1.1
 nested-dict==1.61
-numpy==1.14.0
+numpy==1.22.0
 opencv-python==3.4.0.12
 Pillow==5.0.0
 protobuf==3.5.1
